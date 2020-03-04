@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d2bab1c756d7582d495f27b79c0e854",
+    "revision": "630bbab41e69d9fb3ff3f8a29bc9cee6",
     "url": "/size-table-generator/index.html"
   },
   {
-    "revision": "d75a98ff8b2022e2d247",
+    "revision": "d0998ef985a60ed73ea0",
     "url": "/size-table-generator/static/css/main.d9bd8ede.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/size-table-generator/static/js/2.c0b67c6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d75a98ff8b2022e2d247",
-    "url": "/size-table-generator/static/js/main.f1590988.chunk.js"
+    "revision": "d0998ef985a60ed73ea0",
+    "url": "/size-table-generator/static/js/main.c4d8a3cc.chunk.js"
   },
   {
     "revision": "5c22dee84f898b643289",
